@@ -1,3 +1,5 @@
+🛑 Notice: This project is archived, no longer actively maintained, and may no longer function as intended. 🛑
+
 <h2 align= center><b>🎧 47Music Player 🎧</b></h2>
 <h4 align = center>A Powerful and Simple Telegram Bot<br> that can play songs & videos in Telegram group voice chats</h4>
 
